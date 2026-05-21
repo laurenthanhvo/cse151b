@@ -1,0 +1,72 @@
+CSE 151B Homework 3 Report Summary
+==================================
+
+Total characters after preprocessing: 93827
+Vocabulary size: 38
+Number of training sequences: 31263
+Sequence length: 40
+Stride: 3
+Embedding dimension: 64
+Hidden size: 128
+Number of LSTM layers: 1
+Batch size: 128
+Learning rate: 0.002
+Epochs: 30
+Final training loss: 0.9446
+Total runtime seconds: 27.6
+Device: cuda
+
+
+Temperature 1.5
+----------------------------------------
+shall i compare thee to a summer's day?
+thy swettee withrite'en mortlow:
+thou art much bote-thou wilt, formardanty, reme
+made year soul's ficker is, nowers) dowersed wrong, a sade, (from weer will pleap respised,
+cryspit in golden their pasisimy tarful sap, of ill:
+they carve with rifter muse, much is my hongulicids wit, lads and tellone,
+for cadvang free,
+no please thee, hold charces, (like deserpy stand twire up to engue note,
+for heal still conjinces, bay much merit a cooling it than time,
+excheeish am and tormors for fond of you with oll like inward hat;
+not sway's and age repise;
+but 'sip is happive the world-within his wide (onjountast age by afleeced sirsty:
+and unsew seem ho widout's spirid,
+t
+
+
+Temperature 0.75
+----------------------------------------
+shall i compare thee to a summer's day?
+whence as this a tongue, happy mear, by all of life,
+the sum of love, yet they mine eye's delemined.
+so flowers art what caped with me rease,
+be worth that you do not for for memority:
+pity knive and subsare of a form prophefy?
+do a fine 'tis clear feel behold-essert of setty.
+but love, that thou art thy sake?
+who hatter the wound that the count my colour chide,
+she with was i think on thee are unless thy self dost happy sentle grieved to the day,
+the predest your heiss of love,
+to find thy love, true, or should for all my single and their strong,
+for weary takent othering,
+a
+
+
+Temperature 0.25
+----------------------------------------
+shall i compare thee to a summer's day?
+thou art the form of love, being and beauty shall be thy dear doth truth.
+for i have seen by the prize of things remiougly still,
+to thee i should do thee how to make of love,
+a lease the summer's live in thee,
+the basest how hath not to be so thou art breast,
+when thou art the proud heart in other prove,
+the worst the world will be took lays in our own worth to substance doth spend
+princes when beauty's self-loving was better changelfs mortal pleasure,
+sweet the worthy invent,
+for i sins are but since of the time,
+and thou art assured in the rest,
+if sick of love to suffered with thee thou art to the world, and therefore to time decreasie,
+t
+
